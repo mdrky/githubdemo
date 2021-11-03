@@ -8,6 +8,7 @@ public class ClassOne {
         System.out.println("Batch  Number 35 36 Learn GitHub");
 
         System.out.println("Yeni yeniden ");
+        System.out.println("We learn JAVA");
 
     }
 
