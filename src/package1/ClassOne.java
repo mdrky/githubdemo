@@ -9,6 +9,7 @@ public class ClassOne {
 
         System.out.println("Yeni yeniden ");
         System.out.println("We learn JAVA");
+        System.out.println(" We like git , git is cool");
 
     }
 
